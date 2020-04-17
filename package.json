@@ -1,6 +1,6 @@
 {
   "name": "cost-metru.github.io",
-  "homepage": "http://cost-metru.github.io",
+  "homepage": "http://cost-metru.github.io/app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

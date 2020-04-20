@@ -6,9 +6,10 @@ const rent={
     name:"Chirie",
     data:[
         RO_BUC,
+        RO_BV,
         RO_CJ,
-        RO_BV
-    ]
+    ],
+    global:1
     
 };
 

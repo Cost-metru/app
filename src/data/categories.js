@@ -1,7 +1,9 @@
-import {rent} from './rent.js'
+import {living} from './living.js'
+import {utilities} from './utilities.js'
 
 const data=[
-    rent,
+    living,
+    utilities,
 ];
 
 export{data}

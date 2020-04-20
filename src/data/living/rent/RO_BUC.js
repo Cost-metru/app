@@ -5,10 +5,12 @@ import {AP2} from './RO_BUC/AP2.js'
 
 const RO_BUC ={
     name:"Bucuresti",
+    id:"RO_BUC",
     data:[
         COM,
         AP1,
         AP2
-    ]
+    ],
+    value:1000
 };
 export {RO_BUC};
